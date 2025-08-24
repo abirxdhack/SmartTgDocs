@@ -17,14 +17,6 @@ Search methods, types, and properties instantly within Telegram using inline que
 
 ---
 
-## 🏆 Badges
-
-[![Stars](https://img.shields.io/github/stars/abirxdhack/SmartTgDocs?style=social)](https://github.com/abirxdhack/SmartTgDocs)
-[![Forks](https://img.shields.io/github/forks/abirxdhack/SmartTgDocs?style=social)](https://github.com/abirxdhack/SmartTgDocs)
-[![Issues](https://img.shields.io/github/issues/abirxdhack/SmartTgDocs)](https://github.com/abirxdhack/SmartTgDocs/issues)
-
----
-
 ## 📋 Prerequisites
 
 * **Python 3.8+** 🐍
@@ -155,4 +147,5 @@ Follow the existing style and keep code clean.
 * Powered by [Telegram Bot API](https://core.telegram.org/bots/api) 🌐
 
 ---
+
 
